@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="money">
+    <file>euro-banknote-apple.png</file>
+  </qresource>
+  <qresource prefix="binance">
+    <file>binance-coin-bnb-logo.png</file>
+  </qresource>
+  <qresource prefix="circle">
+    <file>circle_PNG17.png</file>
+  </qresource>
+</RCC>
